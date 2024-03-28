@@ -33,7 +33,7 @@ License:
 This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
 
 Support:
-For any questions, issues, or feedback, please contact us at rpratyush363@example.com.
+For any questions, issues, or feedback, please contact us at rpratyush363@gmail.com.
 
 Happy task managing! 🚀
 
